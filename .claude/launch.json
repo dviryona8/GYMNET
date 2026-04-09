@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gymnet-dev",
+      "runtimeExecutable": "C:\\Windows\\System32\\cmd.exe",
+      "runtimeArgs": ["/c", "C:\\Users\\User\\DOCUME~1\\-5BC1~1\\-6017~1\\start-dev.bat"],
+      "port": 3000,
+      "autoPort": false
+    }
+  ]
+}
